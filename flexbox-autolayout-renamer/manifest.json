@@ -1,0 +1,7 @@
+{
+  "name": "Flexbox Autolayout Renamer",
+  "id": "flexbox-autolayout-renamer-plugin",
+  "api": "1.0.0",
+  "editorType": ["figma"],
+  "main": "code.js"
+}
